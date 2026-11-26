@@ -1,4 +1,4 @@
-# ShadowTrace — Al Mahmud Shohan's parts
+# ShadowTrace — Al Mahmud Shohan parts
 
 **Project:** ShadowTrace – Integrated Modules 1 + 2 (SE331, Lab C2, Fall 2026, Group 05)
 **Author of this part:** Al Mahmud Shohan — GitHub: Shohan230
@@ -37,7 +37,7 @@ This is a subset for showing Shohan's contribution, not a standalone runnable ap
 
 ## Tests for Shohan's parts
 
-Following the same `node:test` style as Kafi's backend tests in
+Following the same `node:test` style as Kafi backend tests in
 Abdullahel-Kafi1/ShadowTrace PR #1, this repo adds 18 tests for Shohan's
 parts only:
 
